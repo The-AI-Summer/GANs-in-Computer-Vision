@@ -23,3 +23,44 @@
 |Jun-Yan Zhu|30 Mar 2017|[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)|---|arXiv|
 
 
+
+
+## Part 3
+|First Author|Published|Title|Link|Conference/Journal|
+|---|---|---|---|---|
+|Martin Arjovsky|  26 Jan 2017 | [Wasserstein GAN(http://proceedings.mlr.press/v70/arjovsky17a.html) )| | PMLR|
+|David Berthelot|  31 Mar 2017 | [BEGAN: Boundary Equilibrium Generative Adversarial Networks(https://arxiv.org/abs/1703.10717) )| | NIPS|
+|Tero Karras|  27 Oct 2017 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation(https://arxiv.org/abs/1710.10196) )| | ICLR|
+
+## Part 4
+|First Author|Published|Title|Link|Conference/Journal|
+|---|---|---|---|---|
+|Ting-Chun Wang| 30 Nov 2017 | [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs]((https://arxiv.org/abs/1711.11585) )| | CVPR |
+| Ting-Chun Wang | 20 Aug 2018 | [Video-to-Video Synthesis]((https://arxiv.org/abs/1711.11585) )| | NIPS |
+|Andrew Brock| 28 Sep 2018 | [Large Scale GAN Training for High Fidelity Natural Image Synthesis]((https://arxiv.org/abs/1809.11096) )| | ICLR |
+
+
+## Part 5
+|First Author|Published|Title|Link|Conference/Journal|
+|---|---|---|---|---|
+|Ian J. Goodfellow| 10 Jun 2014 | [Generative Adversarial Networks]((http://papers.nips.cc/paper/5423-generative-adversarial-nets) )| |NIPS|
+
+
+## Part 6
+|First Author|Published|Title|Link|Conference/Journal|
+|---|---|---|---|---|
+|Ian J. Goodfellow| 10 Jun 2014 | [Generative Adversarial Networks]((http://papers.nips.cc/paper/5423-generative-adversarial-nets) )| |NIPS|
+
+
+
+##  Other awesome GAN repositories and resources
+
+- Play with Generative Adversarial Networks (GANs) in your [browser](https://poloclub.github.io/ganlab/)! 
+- The [GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo): A  list of all named GANs
+- Facebook AI [GAN repo](https://github.com/facebookresearch/pytorch_GAN_zoo): A mix of GAN implementations including progressive growing 
+- PyTorch multiple [implementations](https://github.com/eriklindernoren/PyTorch-GAN) of Generative Adversarial Networks
+- Another PyTorch GAN [library](https://github.com/kwotsin/mimicry) that reproduces research results for popular GANs (CVPR 2020 Workshop)
+- Keras [implementations](https://github.com/eriklindernoren/Keras-GAN) of Generative Adversarial Networks. 
+- Open Questions about Generative Adversarial Networks, Augustus Odena, [Distill](https://distill.pub/2019/gan-open-problems/) 2019
+- Generative Adversarial Networks in Computer Vision: [A Survey and Taxonomy](https://arxiv.org/abs/1906.01529)
+- [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html), Lil'Log blog 2017
