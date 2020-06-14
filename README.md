@@ -8,7 +8,7 @@ In this article-series we are reviewing the most fundamental works of Generative
 Link to the article: [Introduction to generative learning - part 1](https://theaisummer.com/gan-computer-vision/) 
 
 
-|First Author|Published|Title|Link|Conference/Journal|
+|First Author|Published|Title|Code|Conference/Journal|
 |---|---|---|---|---|
 |Ian J. Goodfellow| 10 Jun 2014 | [Generative Adversarial Networks](http://papers.nips.cc/paper/5423-generative-adversarial-nets)|---|NIPS|
 |Mehdi Mirza|6 Nov 2014|[Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)|---|arXiv|
@@ -21,7 +21,7 @@ Link to the article: [Introduction to generative learning - part 1](https://thea
 
 Link to the article: [Conditional image synthesis and 3D object generation - part 2](https://theaisummer.com/gan-computer-vision-object-generation/) 
 
-|First Author|Published|Title|Link|Conference/Journal|
+|First Author|Published|Title|Code|Conference/Journal|
 |---|---|---|---|---|
 |Augustus Odena|30 Oct 2016|[Conditional Image Synthesis With Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585)|---|arXiv|
 |Jiajun Wu|24 Oct 2016 | [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/abs/1610.07584)|---|NIPS|
@@ -36,7 +36,7 @@ Link to the article: [Conditional image synthesis and 3D object generation - par
 
 Link to the article: [Improved training with Wasserstein distance, game theory control and progressively growing schemes - part3 ](https://theaisummer.com/gan-computer-vision-incremental-training/) 
 
-|First Author|Published|Title|Link|Conference/Journal|
+|First Author|Published|Title|Code|Conference/Journal|
 |---|---|---|---|---|
 |Martin Arjovsky|  26 Jan 2017 | [Wasserstein GAN](http://proceedings.mlr.press/v70/arjovsky17a.html) | | PMLR|
 |David Berthelot|  31 Mar 2017 | [BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717) | | NIPS|
@@ -47,11 +47,11 @@ Link to the article: [Improved training with Wasserstein distance, game theory c
 Link to the article: [2K image and video synthesis, and large-scale class-conditional image generation - part4 ](https://theaisummer.com/gan-computer-vision-video-synthesis/) 
 
 
-|First Author|Published|Title|Link|Conference/Journal|
+|First Author|Published|Title|Code|Conference/Journal|
 |---|---|---|---|---|
-|Ting-Chun Wang| 30 Nov 2017 | [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs]((https://arxiv.org/abs/1711.11585) )| | CVPR |
-| Ting-Chun Wang | 20 Aug 2018 | [Video-to-Video Synthesis]((https://arxiv.org/abs/1711.11585) )| | NIPS |
-|Andrew Brock| 28 Sep 2018 | [Large Scale GAN Training for High Fidelity Natural Image Synthesis]((https://arxiv.org/abs/1809.11096) )| | ICLR |
+|Ting-Chun Wang| 30 Nov 2017 | [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/abs/1711.11585) | | CVPR |
+| Ting-Chun Wang | 20 Aug 2018 | [Video-to-Video Synthesis](https://arxiv.org/abs/1711.11585) | | NIPS |
+|Andrew Brock| 28 Sep 2018 | [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096) | | ICLR |
 
 
 ## Self-supervised adversarial training and high-resolution image synthesis with style incorporation (part 5)
@@ -59,10 +59,10 @@ Link to the article: [2K image and video synthesis, and large-scale class-condit
 Link to the article: [Self-supervised adversarial training and high-resolution image synthesis with style incorporation part 5](https://theaisummer.com/gan-computer-vision-style-gan/) 
 
 
-|First Author|Published|Title|Link|Conference/Journal|
+|First Author|Published|Title|Code|Conference/Journal|
 |---|---|---|---|---|
-|Ting Chen|  27 Nov 2018  | [Self-Supervised GANs via Auxiliary Rotation Loss]((https://arxiv.org/abs/1811.11212) )| | CVPR |
-| Tero Karras | 12 Dec 2018 | [A Style-Based Generator Architecture for Generative Adversarial Networks]((https://arxiv.org/abs/1812.04948) )| | CVPR |
+|Ting Chen|  27 Nov 2018  | [Self-Supervised GANs via Auxiliary Rotation Loss](https://arxiv.org/abs/1811.11212) | | CVPR |
+| Tero Karras | 12 Dec 2018 | [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948) | | CVPR |
 
 
 ## Semantic image synthesis and learning a generative model from a single image (part 6)
@@ -70,10 +70,10 @@ Link to the article: [Self-supervised adversarial training and high-resolution i
 Link to the article: [Semantic image synthesis and learning a generative model from a single image part 6](https://theaisummer.com/gan-computer-vision-semantic-synthesis/) 
 
 
-|First Author|Published|Title|Link|Conference/Journal|
+|First Author|Published|Title|Code|Conference/Journal|
 |---|---|---|---|---|
-|Taesung Park|  18 Mar 2019| [Semantic Image Synthesis with Spatially-Adaptive Normalization]((https://arxiv.org/abs/1903.07291) )| | |
-|Tamar Rott Shaham|  2 May 2019| [SinGAN: Learning a Generative Model from a Single Natural Image]((https://arxiv.org/abs/1903.07291) )| | |
+|Taesung Park|  18 Mar 2019| [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291) | | CVPR |
+|Tamar Rott Shaham|  2 May 2019| [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/abs/1903.07291) | | ICCV |
 
 
 
