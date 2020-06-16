@@ -1,4 +1,10 @@
-# GANs-in-Computer-Vision
+<div align="center">
+<img src="cover/ebook-cover.png" width=884 height=512/>
+</div>
+
+
+# GANs in Computer Vision
+
 
 ## Abstract 
 In this article-series we are reviewing the most fundamental works of Generative Adversarial Networks in Computer Vision. We start from the very beginning from concepts such as **generative learning, adversarial learning**. We provide some code and illustrations for educational purposes. The goal is to focus on the intuition of the models, by tackling the multiple problems that arise when training a GAN. We have thoroughly analyzed more than **20 papers in 6 different articles in a chronological order**. We will continue to update the GAN series, based on the newer publications or older ones that we skipped. We do hope that this series will provide you a big overview of the field, so that you will not need to read all the literature by yourself, independent of your background on GANs.    
