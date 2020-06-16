@@ -94,3 +94,18 @@ Link to the article: [Semantic image synthesis and learning a generative model f
 - **Open Questions** about Generative Adversarial Networks, Augustus Odena, [Distill](https://distill.pub/2019/gan-open-problems/) 2019
 - Generative Adversarial Networks in Computer Vision: [A Survey and Taxonomy](https://arxiv.org/abs/1906.01529)
 - [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html), Lil'Log blog 2017
+
+
+
+## The article-series can be cited as:
+
+
+```python
+@article{adaloglou2020gans,
+    title   = "GANs in computer vision",
+    author  = "Adaloglou, Nikolas and Karagiannakos, Sergios ",
+    journal = "https://theaisummer.com/",
+    year    = "2020",
+    url     = "https://theaisummer.com/gan-computer-vision/"
+  }
+```
